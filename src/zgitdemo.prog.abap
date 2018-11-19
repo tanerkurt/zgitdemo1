@@ -6,3 +6,4 @@
 REPORT ZGITDEMO.
 
 write 'Hello git'.
+write 'new line added'.
